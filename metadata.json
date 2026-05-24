@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Titan Fitness Gym",
+  "description": "Premium, responsive gym website with glowing amber/neon accents, dynamic BMI calculator, trainer profiles, gallery with lightbox, and custom countdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
